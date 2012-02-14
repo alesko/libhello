@@ -1,0 +1,12 @@
+This NEWS file records noteworthy changes, very tersely.
+See the manual for detailed information.
+
+  Copyright (C) 2012 Karolinska Institute, Alexander Skoglund.
+
+  Copying and distribution of this file, with or without modification,
+  are permitted in any medium without royalty provided the copyright
+  notice and this notice are preserved.
+
+Version 0.0.1 (14 February 2012)
+* Distribution:
+  . Initial test API, more to come.

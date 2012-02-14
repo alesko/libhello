@@ -1,0 +1,4 @@
+lib_LTLIBRARIES = libfoobar.la
+libfoobar_la_SOURCES = hellolib.cc
+#libfoobar_la_CPPFLAGS = -I$(top_srcdir)/src
+#libfoobar_la_LIBADD = ../src/libsrc.la
