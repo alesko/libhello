@@ -1,0 +1,5 @@
+To compile the lib:
+libtool --mode=compile gcc -O2 -I/usr/include/SDL -c questionare.c
+
+To link the lib:
+libtool --mode=link gcc -O2 -o libquestionare.la questionare.lo -rpath /usr/local/lib -ldc1394 -lGL -L/usr/include -L/usr/X11R6/lib -lX11  -lm -lpthread -I/usr/local/include -lgsl -lgslcblas
